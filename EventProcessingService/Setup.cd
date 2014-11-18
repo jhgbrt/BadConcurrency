@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="EventProcessingService.Queue&lt;T&gt;">
+    <Position X="1" Y="0.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAAAAAkEAAAAAQAAAAABAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventProcessingService.Putter">
+    <Position X="6" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAI=</HashCode>
+      <FileName>Putter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventProcessingService.Getter">
+    <Position X="9.75" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIEAAAAKAAAAAAAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>Getter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventProcessingService.ItemToPut">
+    <Position X="5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemToPut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
